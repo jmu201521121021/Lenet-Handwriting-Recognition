@@ -22,7 +22,11 @@ st->op->op1->op2->op3->op4->e
 ```
 - 简单界面设计
   ![这里写图片描述](http://img.blog.csdn.net/20180112214859670?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvam11MjAxNTIxMTIxMDIx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-  #代码详细介绍
+
+  ​
+
+  # 二.代码详细介绍
+
 - 代码文件
   - Lenet-5.pro
   - lenet.h
@@ -31,6 +35,7 @@ st->op->op1->op2->op3->op4->e
   - main.cpp
   - mainwindow.cpp
   - mainwindow.ui
+
 - Lenet-5.pro,配置文件.添加opencv的库目录和caffe库目录及相关依赖项
 ```
 #-------------------------------------------------
